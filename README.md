@@ -10,4 +10,5 @@ In total it has 10,000 lines.
 **Special thanks to Kenney for creating assets free of use for anyone**
 
 **ABOUT THE GAME**
+
 Mint Adventures is a platformer game made in C++ and Simple Fast Multimedia Library, The player controls the character named "Mint" as he navigates through every level encountering “Blubops” a tiny blue creature, “Crimspikes” a red spiked creature and “Flutterwisps” a fast-flying creature. Experience the snow level, conquer obstacles in the desert level, and traverse through the jungle in the captivating world of Mint Adevntures!
