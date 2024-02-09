@@ -20,3 +20,11 @@ https://docs.google.com/document/d/15ZZe-EE2211O_F807viEBaz4yS50RG_Y/edit?usp=sh
 **PLAYER'S MANUAL**
 
 https://drive.google.com/file/d/1sRTsOoMj3lU6eSSHz1ZITEGRH-iZzsqj/view?usp=sharing
+
+**TRAILER**
+
+https://youtu.be/Pa8l3oiCtw0
+
+**GAMEPLAY**
+https://youtu.be/5C57ia8_Vjs
+
