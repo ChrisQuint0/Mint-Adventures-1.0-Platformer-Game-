@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1sRTsOoMj3lU6eSSHz1ZITEGRH-iZzsqj/view?usp=shari
 
 **TRAILER**
 
-<iframe width="560" height="315" src="https://youtu.be/Pa8l3oiCtw0" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/Pa8l3oiCtw0
 
 
 **GAMEPLAY**
